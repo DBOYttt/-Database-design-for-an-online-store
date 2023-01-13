@@ -6,15 +6,16 @@ Cel tabeli: Przechowywanie danych dotyczących produktów.
 
 # Struktura tabeli:
 ```
-Kolumna	Typ	Ograniczenie
-product_id	INT	PRIMARY KEY
-name	VARCHAR(255)	NOT NULL
-price	DECIMAL(10,2)	NOT NULL
-description	TEXT	NOT NULL
-image	VARCHAR(255)	
-category	VARCHAR(255)	NOT NULL
-Przykładowe zapytanie SQL do pobrania wszystkich produktów z tabeli:
+Kolumna |	Typ |	Ograniczenie
+--------|-----|-------------
+product_id |INT |	PRIMARY KEY
+name | VARCHAR(255) |	NOT NULL
+price |	DECIMAL(10,2) |	NOT NULL
+description |	TEXT |	NOT NULL
+image	| VARCHAR(255)	
+category |	VARCHAR(255) |	NOT NULL
 ```
+Przykładowe zapytanie SQL do pobrania wszystkich produktów z tabeli:
 ```
 SELECT * FROM products;
 Przykładowe zapytanie SQL do pobrania produktów z konkretną kategorią:
