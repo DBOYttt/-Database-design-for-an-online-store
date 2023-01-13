@@ -34,3 +34,8 @@ You can add a column named "image" of type VARCHAR(255) to the products table.
 ```
 ALTER TABLE products ADD COLUMN image VARCHAR(255);
 ```
+#instalation
+- install newest version of phpmyadmin or install xampp with build in phpmyadmin
+- open phpmyadmin and go to import screen
+- last thing is to chose file from this repository and click import 
+that it i hope u can enjoy my woark and give me good feed back
