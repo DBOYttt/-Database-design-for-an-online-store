@@ -4,7 +4,7 @@
 # Tabela produktów
 Cel tabeli: Przechowywanie danych dotyczących produktów.
 
-![image](https://user-images.githubusercontent.com/65898012/212284376-c6d41597-c636-488f-b7ad-3716aba27a89.png)
+![image](https://user-images.githubusercontent.com/65898012/212284376-c6d41597-c636-488f-b7ad-3716aba27a89.png = 250x250)
 
 
 # Struktura tabeli:
